@@ -7,5 +7,8 @@
 
 🧰 Tech Stack -Frontend/UI: Streamlit -Backend/ML: Random Forest Regressor (Scikit-learn) -Serialization: Joblib
 
-📁 Folder Structure bash Copy Edit 📁 Laptop-Price-Predictor ├── app.py # Streamlit App Script ├── rf_model.pkl # Trained ML model ├── requirements.txt # Python dependencies └── README.md # Project documentation
+📁 Folder Structure bash Copy Edit 📁 Laptop-Price-Predictor ├── app.py # Streamlit App Script 
+                                                              ├── rf_model.pkl # Trained ML model 
+                                                              ├── requirements.txt # Python dependencies 
+                                                              └── README.md # Project documentation
 
